@@ -15,6 +15,6 @@ response1 = response.json()
 pprint.pprint(response)
 pprint.pprint(response1)
 
-response1['year']
+response1 = ['year']
 
-response1 = open('text.txt', 'r')
+response1 = open['text.txt', 'w']
